@@ -10,7 +10,9 @@ A dated, public record of meaningful engineering work by Parsa Afshar Fard. Entr
 - The journal is in this public profile repository. Private project work remains private unless specifically cleared for publication.
 
 ## Entries
-Browse [daily entries](entries/).
+Browse [daily entries](entries/). Each dated Markdown file contains the actual engineering summary, verification evidence and next actions. The profile's journal card lists recent published dates and headings; select an entry in the directory to read the full report.
+
+[Read the first entry — 27 November 2026](entries/2026-11-27.md).
 
 ## Entry format
 Date (local day), project, meaningful change, evidence or verification, and next action.

@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/banner-neon-v43.jpg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
+  <a href="docs/profile-guide.md#start-here"><img src="assets/banner-neon-v43.jpg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" /></a>
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
-  <img src="assets/engineering-console.svg" alt="Product builder and software engineer — AI systems, full-stack products and automation" width="100%" />
+  <a href="docs/profile-guide.md#engineering-approach"><img src="assets/engineering-console.svg" alt="Product builder and software engineer — AI systems, full-stack products and automation" width="100%" /></a>
 
   <a href="https://engineering-showcase-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-164967?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/parasaf1/engineering-showcase"><img src="https://img.shields.io/badge/Engineering-Showcase-30234F?style=for-the-badge&logo=github&logoColor=white" alt="Engineering showcase" /></a>
@@ -20,18 +20,20 @@ I like turning ambitious ideas into working systems: defining a problem, designi
 
 > Build with purpose. Validate with evidence. Keep improving.
 
+**Start here:** [How I work](docs/profile-guide.md#engineering-approach) · [LearnAva project preview](docs/learnava-preview.md) · [Extera project preview](docs/extera-preview.md) · [How to read this profile](docs/profile-guide.md)
+
 ## 02 / Public engineering dashboard
 
-![Public engineering signals](assets/project-signals.svg)
+[![Public engineering signals](assets/project-signals.svg)](docs/profile-guide.md#project-dashboard)
 
-This panel is generated from the sanitized public metadata in the [Engineering Showcase](https://github.com/parasaf1/engineering-showcase). It highlights only the public, verified context I intentionally publish.
+This panel is generated from the sanitized public metadata in the [Engineering Showcase](https://github.com/parasaf1/engineering-showcase). It highlights only the public, verified context I intentionally publish. Each card summarizes the current milestone, documented highlights and latest published update; it is not a live production health monitor. [Understand the dashboard](docs/profile-guide.md#project-dashboard).
 
 ## 03 / Systems I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json"><img src="assets/learnava.svg" alt="LearnAva — AI-assisted language learning" width="100%" /></a>
+<a href="docs/learnava-preview.md"><img src="assets/learnava.svg" alt="LearnAva — AI-assisted language learning" width="100%" /></a>
 <h3>LearnAva / Zabanyar</h3>
 An AI-assisted German-learning and exam-preparation product built with Flutter and FastAPI.
 <ul>
@@ -39,11 +41,12 @@ An AI-assisted German-learning and exam-preparation product built with Flutter a
 <li>Protected learner audio delivery</li>
 <li>Multi-speaker exam audio and preparation workflows</li>
 </ul>
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json">Public engineering evidence →</a>
+<a href="docs/learnava-preview.md"><b>Read project preview →</b></a>
+<br /><a href="https://github.com/parasaf1/engineering-showcase/blob/main/projects/LEARNAva.md">Engineering evidence →</a>
 <br /><a href="https://engineering-showcase-inky.vercel.app/projects/lernava">Read full case study →</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json"><img src="assets/extera.svg" alt="Extera — Governed multi-agent systems" width="100%" /></a>
+<a href="docs/extera-preview.md"><img src="assets/extera.svg" alt="Extera — Governed multi-agent systems" width="100%" /></a>
 <h3>Extera / AI Company</h3>
 A governed multi-agent platform with a dedicated SEVERUS owner-assistant experience.
 <ul>
@@ -51,7 +54,8 @@ A governed multi-agent platform with a dedicated SEVERUS owner-assistant experie
 <li>Local Windows microphone capture and speech recognition</li>
 <li>Authorization boundaries, auditability and regression testing</li>
 </ul>
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json">Public engineering evidence →</a>
+<a href="docs/extera-preview.md"><b>Read project preview →</b></a>
+<br /><a href="https://github.com/parasaf1/engineering-showcase/blob/main/projects/AI_COMPANY.md">Engineering evidence →</a>
 <br /><a href="https://engineering-showcase-inky.vercel.app/projects/ai-company">Read full case study →</a>
 </td>
 </tr>
@@ -64,18 +68,24 @@ Both products are in active development. Proprietary implementation remains priv
 <details open>
 <summary><b>Extera / AI Company</b></summary>
 <br />
-<img src="assets/extera-architecture-v2.svg" alt="Extera architecture snapshot" width="100%" />
+<a href="docs/extera-preview.md#architecture"><img src="assets/extera-architecture-v2.svg" alt="Extera architecture snapshot" width="100%" /></a>
+
+The diagram illustrates how owner requests pass through authorization and policy, approval-aware task routing, and model inference with verification. The goal is useful automation without unrestricted authority. [Read the architecture and its limitations](docs/extera-preview.md#architecture).
 </details>
 
 <details open>
 <summary><b>LearnAva / Zabanyar</b></summary>
 <br />
-<img src="assets/learnava-architecture-v2.svg" alt="LearnAva architecture snapshot" width="100%" />
+<a href="docs/learnava-preview.md#architecture"><img src="assets/learnava-architecture-v2.svg" alt="LearnAva architecture snapshot" width="100%" /></a>
+
+The diagram connects the Flutter learner experience to FastAPI services, exam workflows and protected audio delivery. The key concern is reliable, authorized content delivery rather than simply generating media. [Read the architecture and design decisions](docs/learnava-preview.md#architecture).
 </details>
 
 ## 05 / Motion studies
 
-<img src="assets/project-showreel.svg" alt="Animated conceptual showreel: Extera, LearnAva and the engineering journal" width="100%" />
+<a href="docs/profile-guide.md#motion-studies"><img src="assets/project-showreel.svg" alt="Animated conceptual showreel: Extera, LearnAva and the engineering journal" width="100%" /></a>
+
+The three slides introduce governed AI workflows, language-learning services and evidence-led development. [Read the showreel as text](docs/profile-guide.md#motion-studies).
 
 [Explore Extera](https://engineering-showcase-inky.vercel.app/projects/ai-company) · [Explore LearnAva](https://engineering-showcase-inky.vercel.app/projects/lernava) · [Engineering journal](journal/README.md)
 
@@ -85,13 +95,19 @@ These short animated diagrams illustrate selected product concepts. They are **n
 <summary><b>Individual motion studies</b></summary>
 
 
-[![LearnAva conceptual exam workflow](assets/learnava-flow.gif)](https://engineering-showcase-inky.vercel.app/projects/lernava)
+[![LearnAva conceptual exam workflow](assets/learnava-flow.gif)](docs/learnava-preview.md#motion-preview)
 
-[![Extera conceptual governed voice workflow](assets/extera-flow.gif)](https://engineering-showcase-inky.vercel.app/projects/ai-company)
+**LearnAva:** Exam format, audio and practice illustrate the connection between preparation requirements and the learner experience. [Read the motion preview](docs/learnava-preview.md#motion-preview).
+
+[![Extera conceptual governed voice workflow](assets/extera-flow.gif)](docs/extera-preview.md#motion-preview)
+
+**Extera:** Voice input, policy checks and inference illustrate the control boundaries of a governed assistant. [Read the motion preview](docs/extera-preview.md#motion-preview).
 
 </details>
 
 ## 06 / Technology landscape
+
+The tools below correspond to product capabilities rather than a list of claimed certifications. [Read how the stack fits together](docs/profile-guide.md#technology-landscape).
 
 **Application & API**
 
@@ -117,17 +133,19 @@ These short animated diagrams illustrate selected product concepts. They are **n
 
 ## 08 / Activity & momentum
 
-![Recent public GitHub activity](assets/activity.svg)
+[![Recent public GitHub activity](assets/activity.svg)](docs/profile-guide.md#activity-and-statistics)
 
 Refreshed daily through GitHub Actions. This card samples public events only, not total contributions or private development activity.
 
-<img src="assets/contribution-stats.svg" alt="GitHub contribution statistics and streaks" width="100%" />
+[![GitHub contribution statistics and streaks](assets/contribution-stats.svg)](docs/profile-guide.md#activity-and-statistics)
 
-<img src="assets/contribution-3d.svg" alt="Isometric GitHub contribution calendar" width="100%" />
+[![Isometric GitHub contribution calendar](assets/contribution-3d.svg)](docs/profile-guide.md#contribution-calendar)
 
 Statistics and streaks use the GitHub contribution calendar visible to the automation, not private repository contents. They cover the returned calendar window, not lifetime totals.
 
-<img src="assets/github-snake.svg" alt="Contribution snake animation" width="100%" />
+[![Contribution snake animation](assets/github-snake.svg)](docs/profile-guide.md#contribution-calendar)
+
+The landscape uses height and color to encode contribution counts; the Snake animates the same general idea using GitHub contribution data. [Read what the colors, streaks and metrics mean](docs/profile-guide.md#activity-and-statistics).
 
 ## 09 / Explore my work
 
@@ -139,12 +157,12 @@ Statistics and streaks use the GitHub contribution calendar visible to the autom
 - [**Verification boundaries**](docs/engineering-evidence.md) — how I separate public evidence from private implementation.
 
 <div align="center">
-  <img src="assets/signal.svg" width="100%" alt="Think. Build. Verify. Evolve." />
+  <a href="docs/profile-guide.md#engineering-approach"><img src="assets/signal.svg" width="100%" alt="Think. Build. Verify. Evolve." /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="assets/signature.svg" width="100%" alt="From idea to system — always building" />
+  <a href="docs/profile-guide.md#start-here"><img src="assets/signature.svg" width="100%" alt="From idea to system — always building" /></a>
   <sub>Built with curiosity, discipline and a bias toward execution.</sub>
 </div>
