@@ -81,6 +81,52 @@ Both products are in active development. Proprietary implementation remains priv
 
 [**Latest public project metadata**](https://github.com/parasaf1/engineering-showcase/tree/main/data) — The project's maintained public evidence source.
 
+## 06 / Inside the systems
+
+High-level maps of selected public engineering capabilities. These are conceptual views, not a disclosure of private implementation.
+
+<details open>
+<summary><b>EXTERA / Governed AI workflows</b></summary>
+
+```mermaid
+flowchart LR
+  A[Owner interface] --> B[Authorization and policy]
+  B --> C[Approval-aware workflows]
+  C --> D[Model inference]
+  E[Local microphone and speech recognition] --> A
+  C --> F[Audit and verification]
+```
+
+Phase 14 includes validated local speech recognition and opt-in model inference; full autonomous operation and production readiness remain in progress. [Public evidence](https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json).
+
+</details>
+
+<details open>
+<summary><b>LEARNAVA / AI-assisted language learning</b></summary>
+
+```mermaid
+flowchart LR
+  A[Flutter learning experience] --> B[FastAPI backend]
+  B --> C[Exam preparation workflows]
+  B --> D[Protected audio delivery]
+  D --> E[Multi-speaker exam audio]
+```
+
+Selected validated exam preparation and audio capabilities. [Public evidence](https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json).
+
+</details>
+
+## 07 / Public activity
+
+![Recent public GitHub activity](assets/activity.svg)
+
+Refreshed daily through GitHub Actions. This card samples public events only, not total contributions or private development activity.
+
+<div align="center">
+  <img src="assets/signal.svg" width="100%" alt="Think. Build. Verify. Evolve." />
+</div>
+
+
 ---
 
 <div align="center">
