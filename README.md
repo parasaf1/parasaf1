@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**parasaf1/parasaf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# PARSA AFSHAR FARD
 
-Here are some ideas to get you started:
+### Product Builder | Software Developer | AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Turning ideas into working systems.**
+
+[Engineering Portfolio](https://engineering-showcase-inky.vercel.app) |
+[GitHub](https://github.com/parasaf1) |
+[Contact](mailto:afsharparsa725@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I build software products, explore intelligent systems,
+and turn complex ideas into practical engineering solutions.
+
+My interests span software engineering, artificial intelligence,
+automation, product development and system architecture.
+
+## Flagship Projects
+
+### Extera AI Company
+
+A governed multi-agent AI platform with an owner-assistant
+experience, local voice processing and approval-aware workflows.
+
+**Focus:** Multi-Agent Systems, AI Governance, Automation,
+Local AI and Software Architecture.
+
+**Status:** Active development.
+
+### LearnAva
+
+An AI-assisted German language learning and exam preparation
+platform built with Flutter and FastAPI.
+
+**Focus:** Educational Technology, AI, Mobile Development
+and Backend Engineering.
+
+**Status:** Active development.
+
+## Engineering Philosophy
+
+- Build real products.
+- Design systems, not just features.
+- Verify results through testing.
+- Treat security and privacy as engineering requirements.
+- Never stop learning.
+
+## Engineering Showcase
+
+Explore my projects, technical case studies and verified
+engineering milestones.
+
+[View Engineering Showcase](https://github.com/parasaf1/engineering-showcase)
+
+---
+
+<div align="center">
+
+**Think. Build. Verify. Evolve.**
+
+</div>
