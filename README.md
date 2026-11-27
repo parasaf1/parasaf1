@@ -131,6 +131,8 @@ Statistics and streaks use the GitHub contribution calendar visible to the autom
 
 ## 09 / Explore my work
 
+[![Latest public engineering journal entries](assets/journal-pulse.svg)](journal/README.md)
+
 - [**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) — public project documentation and evidence.
 - [**Live portfolio**](https://engineering-showcase-inky.vercel.app/) — a closer look at the projects, technical decisions and case studies.
 - [**Daily Engineering Journal**](journal/README.md) — meaningful engineering outcomes and public verification.
