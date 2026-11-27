@@ -1,5 +1,6 @@
 """Render public-only profile panels from sanitized engineering-showcase metadata."""
 import json
+import re
 import textwrap
 import urllib.request
 from datetime import datetime, timezone
@@ -21,8 +22,18 @@ def fetch_json(url: str):
         return json.load(resp)
 
 
+def public_text(text):
+    if not isinstance(text, str):
+        return text
+    text = re.sub(r"\b(?:AI Company\s*/\s*Extera|Extera\s*/\s*AI Company|Extera AI Company|Extera\s*/\s*SEVERUS)\b", "AI Company", text, flags=re.I)
+    text = re.sub(r"\bLearnAva\s*/\s*Zabanyar\b", "LearnAva", text, flags=re.I)
+    text = re.sub(r"\bExtera\b", "AI Company", text, flags=re.I)
+    text = re.sub(r"\b(?:Zabanyar|LernAva)\b", "LearnAva", text, flags=re.I)
+    text = re.sub(r"\bSEVERUS owner[- ]assistant\b", "owner assistant", text, flags=re.I)
+    return re.sub(r"\bSEVERUS\b", "owner assistant", text, flags=re.I)
+
 def wrap_lines(text: str, width: int, max_lines: int):
-    parts = textwrap.wrap(text, width=width)
+    parts = textwrap.wrap(public_text(text), width=width)
     if len(parts) > max_lines:
         parts = parts[: max_lines - 1] + [parts[max_lines - 1].rstrip(" .") + "…"]
     return [escape(p) for p in parts]

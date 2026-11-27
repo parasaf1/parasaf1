@@ -6,7 +6,7 @@
 
 ## What is AI Company?
 
-AI Company is a multi-agent AI platform designed around controlled execution, policy-owned model routing, persistent workflow state, approvals and verifiable outcomes. owner assistant is its dedicated owner-assistant experience, not a claim of an independently operating AI company.
+AI Company is a multi-agent AI platform designed around controlled execution, policy-owned model routing, persistent workflow state, approvals and verifiable outcomes. Its dedicated owner-assistant experience is part of the platform, not a claim of an independently operating AI company.
 
 ## Problem and product goal
 

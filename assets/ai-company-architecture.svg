@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
-<title id="title">Extera public architecture snapshot</title>
-<desc id="desc">Conceptual high-level architecture of Extera / AI Company based on public evidence.</desc>
+<title id="title">AI Company public architecture snapshot</title>
+<desc id="desc">Conceptual high-level architecture of AI Company based on public evidence.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#081321"/>
@@ -10,7 +10,7 @@
 </defs>
 <rect width="960" height="280" rx="22" fill="url(#bg)"/>
 <rect x="1" y="1" width="958" height="278" rx="21" fill="none" stroke="#244662"/>
-<text x="34" y="38" fill="#67d9f2" font-family="monospace" font-size="13" letter-spacing="2">EXTERA / GOVERNED AI WORKFLOWS</text>
+<text x="34" y="38" fill="#67d9f2" font-family="monospace" font-size="13" letter-spacing="2">AI COMPANY / GOVERNED AI WORKFLOWS</text>
 <text x="34" y="63" fill="#eef6ff" font-family="Arial,sans-serif" font-size="24" font-weight="700">Public architecture snapshot</text>
 <g stroke="#4ecae9" stroke-width="3" fill="none" opacity="0.9" filter="url(#glow)">
   <path d="M214 160H272"/><path d="M440 160H498"/><path d="M666 160H724"/>
