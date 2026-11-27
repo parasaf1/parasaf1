@@ -65,14 +65,14 @@ Both products are in active development. Proprietary implementation remains priv
 
 ### Public project roadmaps
 
-| Project | Status | Public roadmap |
-| --- | --- | --- |
-| EXTERA — AI Company | Active development | [Architecture, milestones and release gates](projects/extera.md) |
-| LearnAva | Active development | [Product workflows, quality and release gates](projects/learnava.md) |
+| Project | Status | Official GitHub Project | Public roadmap |
+| --- | --- | --- | --- |
+| EXTERA — AI Company | Active development | [Open project](https://github.com/users/parasaf1/projects/1) | [Architecture, milestones and release gates](projects/extera.md) |
+| LearnAva | Active development | [Open project](https://github.com/users/parasaf1/projects/2) | [Product workflows, quality and release gates](projects/learnava.md) |
 
 [Explore both project roadmaps and the delivery workflow →](projects/README.md)
 
-These are public, evidence-based roadmap documents, not live GitHub Projects boards or production monitoring.
+The official GitHub Projects track selected public work items. The roadmap documents explain the evidence and release gates; neither is production monitoring.
 
 ## 04 / Architecture snapshots
 

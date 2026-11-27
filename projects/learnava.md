@@ -1,6 +1,6 @@
 # LearnAva
 
-[All public roadmaps](README.md) · [Project preview](../docs/learnava-preview.md) · [Engineering case study](https://github.com/parasaf1/engineering-showcase/blob/main/projects/LEARNAva.md) · [Portfolio](https://engineering-showcase-inky.vercel.app/projects/lernava)
+[Official GitHub Project](https://github.com/users/parasaf1/projects/2) · [All public roadmaps](README.md) · [Project preview](../docs/learnava-preview.md) · [Engineering case study](https://github.com/parasaf1/engineering-showcase/blob/main/projects/LEARNAva.md) · [Portfolio](https://engineering-showcase-inky.vercel.app/projects/lernava)
 
 ![LearnAva architecture](../assets/learnava-architecture-v2.svg)
 

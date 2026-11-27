@@ -1,6 +1,6 @@
 # EXTERA — AI Company
 
-[All public roadmaps](README.md) · [Project preview](../docs/ai-company-preview.md) · [Engineering case study](https://github.com/parasaf1/engineering-showcase/blob/main/projects/AI_COMPANY.md) · [Portfolio](https://engineering-showcase-inky.vercel.app/projects/ai-company)
+[Official GitHub Project](https://github.com/users/parasaf1/projects/1) · [All public roadmaps](README.md) · [Project preview](../docs/ai-company-preview.md) · [Engineering case study](https://github.com/parasaf1/engineering-showcase/blob/main/projects/AI_COMPANY.md) · [Portfolio](https://engineering-showcase-inky.vercel.app/projects/ai-company)
 
 ![AI Company architecture](../assets/ai-company-architecture-v2.svg)
 

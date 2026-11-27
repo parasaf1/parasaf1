@@ -2,12 +2,12 @@
 
 [Back to profile](../README.md)
 
-Two active product initiatives, documented for professional evaluation. These Markdown roadmaps are a public planning and evidence layer, not native GitHub Projects boards or live issue trackers. Implementation repositories remain private.
+Two active product initiatives, documented for professional evaluation. These Markdown roadmaps complement the official GitHub Projects linked below; they are a public planning and evidence layer. Implementation repositories remain private.
 
 | Project | Product objective | Status |
 | --- | --- | --- |
-| [EXTERA — AI Company](extera.md) | Governed multi-agent execution and owner-assistant experience | Active development |
-| [LearnAva](learnava.md) | Persian-first German learning and exam preparation | Active development |
+| [EXTERA — AI Company](extera.md) ([GitHub Project](https://github.com/users/parasaf1/projects/1)) | Governed multi-agent execution and owner-assistant experience | Active development |
+| [LearnAva](learnava.md) ([GitHub Project](https://github.com/users/parasaf1/projects/2)) | Persian-first German learning and exam preparation | Active development |
 
 ## Delivery workflow
 
