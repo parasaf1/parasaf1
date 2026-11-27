@@ -83,7 +83,7 @@ The diagram connects the Flutter learner experience to FastAPI services, exam wo
 
 ## 05 / Motion studies
 
-[![AI Company conceptual animated network](assets/ai-company-network.gif)](docs/ai-company-preview.md#motion-preview)
+<a href="docs/ai-company-preview.md#motion-preview"><img src="assets/ai-company-network.gif" alt="AI Company conceptual animated network" width="100%" /></a>
 
 The animated network illustrates signal flow through input, policy, agents, verification and results. It is a conceptual visualization, not live inference or an internal topology. [Read the motion preview](docs/ai-company-preview.md#motion-preview).
 
