@@ -121,6 +121,7 @@ Statistics and streaks use the GitHub contribution calendar visible to the autom
 
 - [**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) — public project documentation and evidence.
 - [**Live portfolio**](https://engineering-showcase-inky.vercel.app/) — a closer look at the projects, technical decisions and case studies.
+- [**Daily Engineering Journal**](journal/README.md) — meaningful engineering outcomes and public verification.
 - [**Verification boundaries**](docs/engineering-evidence.md) — how I separate public evidence from private implementation.
 
 <div align="center">
