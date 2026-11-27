@@ -38,7 +38,7 @@ This is a conceptual public map, not a disclosure of runtime internals or a clai
 
 ## Motion preview
 
-![AI Company animated network](../assets/ai-company-network.gif)
+<img src="../assets/ai-company-network.gif" width="100%" alt="AI Company animated network" />
 
 This conceptual network visualizes the flow of a request through input, policy checks, agent coordination, verification and results. The moving pulses are illustrative, not real-time telemetry, model weights or a disclosure of the internal system topology.
 

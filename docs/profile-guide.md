@@ -16,7 +16,7 @@ I'm Parsa Afshar Fard, a product builder and software developer working across c
 
 ## Engineering approach
 
-![Engineering terminal](../assets/engineering-terminal.gif)
+<img src="../assets/engineering-terminal.gif" width="100%" alt="Engineering terminal" />
 
 The animated terminal introduces my engineering workflow with illustrative build and validation stages. It is not a live shell, test report or production status. Think, build, verify and evolve describe the development loop:
 
@@ -37,7 +37,7 @@ Read the current [LearnAva metadata](https://github.com/parasaf1/engineering-sho
 
 ## Motion studies
 
-![AI Company conceptual animated network](../assets/ai-company-network.gif)
+<img src="../assets/ai-company-network.gif" width="100%" alt="AI Company conceptual animated network" />
 
 The network depicts input, policy, agents, verification and results as a conceptual signal flow, not a measured neural network or live execution. The original showreel is retained as an [optional concept illustration](../assets/project-showreel.svg).
 
