@@ -71,7 +71,15 @@ Both products are in active development. Proprietary implementation remains priv
 <img src="assets/learnava-architecture.svg" alt="LearnAva architecture snapshot" width="100%" />
 </details>
 
-## 05 / Technology landscape
+## 05 / Motion studies
+
+These short animated diagrams illustrate selected product concepts. They are **not recordings of working product interfaces**, and do not imply completed production readiness.
+
+[![LearnAva conceptual exam workflow](assets/learnava-flow.gif)](https://engineering-showcase-inky.vercel.app/projects/lernava)
+
+[![Extera conceptual governed voice workflow](assets/extera-flow.gif)](https://engineering-showcase-inky.vercel.app/projects/ai-company)
+
+## 06 / Technology landscape
 
 **Application & API**
 
@@ -85,7 +93,7 @@ Both products are in active development. Proprietary implementation remains priv
 
 ![GitHub](https://img.shields.io/badge/GitHub-142B40?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-142B40?style=flat-square&logo=githubactions&logoColor=65A9FF) ![Windows](https://img.shields.io/badge/Windows-142B40?style=flat-square&logoColor=white)
 
-## 06 / Engineering principles
+## 07 / Engineering principles
 
 | Principle | In practice |
 | :--- | :--- |
@@ -95,7 +103,7 @@ Both products are in active development. Proprietary implementation remains priv
 | **Evidence over claims** | Distinguish tested capabilities from work in progress. |
 | **Continuous improvement** | Build, measure, validate and iterate. |
 
-## 07 / Activity & momentum
+## 08 / Activity & momentum
 
 ![Recent public GitHub activity](assets/activity.svg)
 
@@ -109,7 +117,7 @@ Statistics and streaks use the GitHub contribution calendar visible to the autom
 
 <img src="assets/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
-## 08 / Explore my work
+## 09 / Explore my work
 
 - [**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) — public project documentation and evidence.
 - [**Live portfolio**](https://engineering-showcase-inky.vercel.app/) — a closer look at the projects, technical decisions and case studies.
