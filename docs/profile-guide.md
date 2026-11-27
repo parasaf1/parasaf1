@@ -16,7 +16,9 @@ I'm Parsa Afshar Fard, a product builder and software developer working across c
 
 ## Engineering approach
 
-The animated console is an introduction to my role and work, not a running terminal. Think, build, verify and evolve describe the development loop:
+![Engineering terminal](../assets/engineering-terminal.gif)
+
+The animated terminal introduces my engineering workflow with illustrative build and validation stages. It is not a live shell, test report or production status. Think, build, verify and evolve describe the development loop:
 
 1. **Think:** identify the product problem, constraints, interface boundaries and intended outcome.
 2. **Build:** deliver the smallest useful implementation across the relevant client, API or runtime layers.
@@ -35,7 +37,9 @@ Read the current [LearnAva metadata](https://github.com/parasaf1/engineering-sho
 
 ## Motion studies
 
-![Conceptual project showreel](../assets/project-showreel.svg)
+![AI Company conceptual animated network](../assets/ai-company-network.gif)
+
+The network depicts input, policy, agents, verification and results as a conceptual signal flow, not a measured neural network or live execution. The original showreel is retained as an [optional concept illustration](../assets/project-showreel.svg).
 
 The showreel is a rotating conceptual introduction, not a screen recording. Its three frames mean:
 

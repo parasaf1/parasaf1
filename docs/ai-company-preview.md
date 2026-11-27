@@ -38,6 +38,10 @@ This is a conceptual public map, not a disclosure of runtime internals or a clai
 
 ## Motion preview
 
+![AI Company animated network](../assets/ai-company-network.gif)
+
+This conceptual network visualizes the flow of a request through input, policy checks, agent coordination, verification and results. The moving pulses are illustrative, not real-time telemetry, model weights or a disclosure of the internal system topology.
+
 ![AI Company conceptual voice workflow](../assets/ai-company-flow.gif)
 
 **What the three frames mean:** voice input represents explicit local microphone capture; policy check represents the control boundary between a request and permitted action; inference represents a permitted model execution path. This animation illustrates a design concept. It does not demonstrate a complete voice conversation or autonomous multi-agent mission.

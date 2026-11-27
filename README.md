@@ -3,7 +3,7 @@
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
-  <a href="docs/profile-guide.md#engineering-approach"><img src="assets/engineering-console.svg" alt="Product builder and software engineer — AI systems, full-stack products and automation" width="100%" /></a>
+  <a href="docs/profile-guide.md#engineering-approach"><img src="assets/engineering-terminal.gif" alt="Product builder and software engineer — AI systems, full-stack products and automation" width="100%" /></a>
 
   <a href="https://engineering-showcase-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-164967?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/parasaf1/engineering-showcase"><img src="https://img.shields.io/badge/Engineering-Showcase-30234F?style=for-the-badge&logo=github&logoColor=white" alt="Engineering showcase" /></a>
@@ -83,9 +83,9 @@ The diagram connects the Flutter learner experience to FastAPI services, exam wo
 
 ## 05 / Motion studies
 
-<a href="docs/profile-guide.md#motion-studies"><img src="assets/project-showreel.svg" alt="Animated conceptual showreel: AI Company, LearnAva and the engineering journal" width="100%" /></a>
+[![AI Company conceptual animated network](assets/ai-company-network.gif)](docs/ai-company-preview.md#motion-preview)
 
-The three slides introduce governed AI workflows, language-learning services and evidence-led development. [Read the showreel as text](docs/profile-guide.md#motion-studies).
+The animated network illustrates signal flow through input, policy, agents, verification and results. It is a conceptual visualization, not live inference or an internal topology. [Read the motion preview](docs/ai-company-preview.md#motion-preview).
 
 [Explore AI Company](https://engineering-showcase-inky.vercel.app/projects/ai-company) · [Explore LearnAva](https://engineering-showcase-inky.vercel.app/projects/lernava) · [Engineering journal](journal/README.md)
 
