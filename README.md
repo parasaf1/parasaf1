@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
+  <img src="assets/banner-typography.svg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
@@ -62,13 +62,13 @@ Both products are in active development. Proprietary implementation remains priv
 <details open>
 <summary><b>Extera / AI Company</b></summary>
 <br />
-<img src="assets/extera-architecture.svg" alt="Extera architecture snapshot" width="100%" />
+<img src="assets/extera-architecture-v2.svg" alt="Extera architecture snapshot" width="100%" />
 </details>
 
 <details open>
 <summary><b>LearnAva / Zabanyar</b></summary>
 <br />
-<img src="assets/learnava-architecture.svg" alt="LearnAva architecture snapshot" width="100%" />
+<img src="assets/learnava-architecture-v2.svg" alt="LearnAva architecture snapshot" width="100%" />
 </details>
 
 ## 05 / Motion studies
