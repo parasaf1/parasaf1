@@ -22,7 +22,7 @@ query {
 }
 """
 BG = "#0b1728"
-PALETTE = ["#24394e", "#14526c", "#087f9e", "#19b6d0", "#61e2ef"]
+PALETTE = ["#29263e", "#4b347d", "#7654bd", "#a38af6", "#61e2ef"]
 
 def load():
     result = subprocess.run(["gh", "api", "graphql", "-f", "query=" + QUERY],
@@ -66,7 +66,7 @@ def metrics(dates, today):
 def header(title, desc, height):
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="960" height="{height}" viewBox="0 0 960 {height}" role="img" aria-labelledby="t d">'
             f'<title id="t">{escape(title)}</title><desc id="d">{escape(desc)}</desc>'
-            f'<rect width="960" height="{height}" rx="18" fill="{BG}"/><rect x="1" y="1" width="958" height="{height-2}" rx="17" fill="none" stroke="#27516b"/>')
+            f'<rect width="960" height="{height}" rx="18" fill="{BG}"/><rect x="1" y="1" width="958" height="{height-2}" rx="17" fill="none" stroke="#51457e"/>')
 
 def txt(x, y, value, size=16, color="#c8deef", weight="400", anchor="start"):
     return f'<text x="{x}" y="{y}" font-family="Arial,sans-serif" font-size="{size}" font-weight="{weight}" fill="{color}" text-anchor="{anchor}">{escape(str(value))}</text>'
@@ -81,7 +81,7 @@ def stats(dates, repos, today):
              txt(928, 36, today.isoformat() + " UTC", 13, "#a4bfd3", anchor="end")]
     for i, (label, value) in enumerate(items):
         x, y = 32 + (i % 3) * 304, 54 + (i // 3) * 82
-        parts.append(f'<rect x="{x}" y="{y}" width="288" height="72" rx="9" fill="#10263b" stroke="#294f6a"/>')
+        parts.append(f'<rect x="{x}" y="{y}" width="288" height="72" rx="9" fill="#211e40" stroke="#53447d"/>')
         parts.extend([txt(x+14, y+25, label, 14, "#a4bfd3"), txt(x+14, y+58, value, 28, "#eef6ff", "700")])
     parts.append(txt(32, 243, "Visible calendar counts only; streaks computed within returned dates. Today may still be in progress.", 13, "#a4bfd3"))
     return "".join(parts) + "</svg>"
@@ -102,7 +102,7 @@ def calendar(dates, today):
         top = y-h
         parts.append(f'<g><title>{date}: {count} contributions</title><path d="M{x} {top}l10 -4 6 7 -10 4z" fill="{color}" stroke="{BG}" stroke-width=".6"/>')
         if h:
-            parts.append(f'<path d="M{x} {top}l6 7v{h}l-6 -7z" fill="#13425b"/><path d="M{x+6} {top+7}l10 -4v{h}l-10 4z" fill="{color}" opacity=".65"/>')
+            parts.append(f'<path d="M{x} {top}l6 7v{h}l-6 -7z" fill="#48316e"/><path d="M{x+6} {top+7}l10 -4v{h}l-10 4z" fill="{color}" opacity=".65"/>')
         parts.append("</g>")
     parts.extend([txt(32, 276, "Height and color encode daily contribution counts. Anonymous private totals may appear if publicly visible on GitHub.", 13, "#a4bfd3")])
     return "".join(parts) + "</svg>"

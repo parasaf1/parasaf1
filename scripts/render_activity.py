@@ -27,7 +27,7 @@ def render(events, today):
         day = dt.date.fromisoformat(event["created_at"][:10])
         if start <= day <= today:
             counts[day] += 1
-    palette = ["#172b3e", "#14526c", "#087f9e", "#19b6d0", "#61e2ef"]
+    palette = ["#29263e", "#4b347d", "#7654bd", "#a38af6", "#61e2ef"]
     blocks = []
     for i, day in enumerate(days):
         n = counts[day]
@@ -38,7 +38,7 @@ def render(events, today):
     active = sum(n > 0 for n in counts.values())
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="960" height="214" viewBox="0 0 960 214" role="img" aria-labelledby="title desc">
 <title id="title">Public GitHub activity snapshot</title><desc id="desc">{total} observed public events across {active} days in the last 28 UTC days. Sample of up to 300 recent public events, not a full contribution history.</desc>
-<rect width="960" height="214" rx="16" fill="#0b1728"/><rect x="1" y="1" width="958" height="212" rx="15" fill="none" stroke="#27516b"/>
+<rect width="960" height="214" rx="16" fill="#0b1728"/><rect x="1" y="1" width="958" height="212" rx="15" fill="none" stroke="#51457e"/>
 <g font-family="monospace"><text x="39" y="34" fill="#67d9f2" font-size="13" letter-spacing="2">PUBLIC ACTIVITY / 28 DAYS</text><text x="921" y="34" fill="#98b8d1" text-anchor="end" font-size="12">UTC / {today.isoformat()}</text></g>
 <g font-family="Arial,sans-serif"><text x="39" y="82" fill="#eef6ff" font-size="35" font-weight="700">{total}</text><text x="130" y="80" fill="#a4bfd3" font-size="16">observed public events</text><text x="550" y="82" fill="#eef6ff" font-size="35" font-weight="700">{active}</text><text x="615" y="80" fill="#a4bfd3" font-size="16">days with observed activity</text></g>
 {''.join(blocks)}

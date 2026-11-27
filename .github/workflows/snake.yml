@@ -24,7 +24,7 @@ jobs:
           github_user_name: parasaf1
           github_token: ${{ github.token }}
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=%2361e2ef&color_dots=%23172b3e,%2314526c,%23087f9e,%2319b6d0,%2361e2ef
+            dist/github-snake.svg?palette=github-dark&color_snake=%23c4a5ff&color_dots=%2329263e,%234b347d,%237654bd,%23a38af6,%2361e2ef
       - name: Publish generated snake
         shell: bash
         run: |
