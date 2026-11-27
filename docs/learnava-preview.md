@@ -46,6 +46,8 @@ The diagram is a simplified capability map. The public case study describes feat
 
 The public milestone records validated exam audio and exam-preparation workflows. The case study documents test coverage for identity/session flows, conversations, exam packs, billing contracts, protected audio, media rejection/regeneration and health behavior. No complete production rollout or user-adoption claim is made here.
 
+[Explore the LearnAva public roadmap →](../projects/learnava.md)
+
 ## Current status and next focus
 
 **Active development** — strengthening exam-oriented workflows, media quality and end-to-end learner reliability. The current public status is maintained in [project metadata](https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json).

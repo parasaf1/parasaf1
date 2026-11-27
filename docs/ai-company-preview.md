@@ -57,6 +57,8 @@ The public metadata dated 22 November 2026 records Phase 14 development-branch e
 
 The same source reports roughly 19–23 seconds of CPU processing for a ten-second Persian speech sample in measured trials. These are historical observations, not guaranteed performance or a new independent benchmark.
 
+[Explore the EXTERA public roadmap →](../projects/extera.md)
+
 ## Current status and release boundaries
 
 **Active development; Phase 14 evidence is on a development branch.** The public source does not establish completed spoken replies, full voice conversation, independently verified end-to-end multi-agent missions, business-source coverage, consented integrations, continuous operation or production release.

@@ -63,6 +63,17 @@ A governed multi-agent platform with a dedicated owner assistant experience.
 
 Both products are in active development. Proprietary implementation remains private; the public showcase documents selected, sanitized engineering evidence and verification boundaries.
 
+### Public project roadmaps
+
+| Project | Status | Public roadmap |
+| --- | --- | --- |
+| EXTERA — AI Company | Active development | [Architecture, milestones and release gates](projects/extera.md) |
+| LearnAva | Active development | [Product workflows, quality and release gates](projects/learnava.md) |
+
+[Explore both project roadmaps and the delivery workflow →](projects/README.md)
+
+These are public, evidence-based roadmap documents, not live GitHub Projects boards or production monitoring.
+
 ## 04 / Architecture snapshots
 
 <details open>
