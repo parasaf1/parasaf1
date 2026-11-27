@@ -3,6 +3,8 @@
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
+  <img src="assets/engineering-console.svg" alt="Product builder and software engineer — AI systems, full-stack products and automation" width="100%" />
+
   <a href="https://engineering-showcase-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-164967?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/parasaf1/engineering-showcase"><img src="https://img.shields.io/badge/Engineering-Showcase-30234F?style=for-the-badge&logo=github&logoColor=white" alt="Engineering showcase" /></a>
   <a href="mailto:afsharparsa725@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-3E2B66?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
@@ -73,11 +75,21 @@ Both products are in active development. Proprietary implementation remains priv
 
 ## 05 / Motion studies
 
+<img src="assets/project-showreel.svg" alt="Animated conceptual showreel: Extera, LearnAva and the engineering journal" width="100%" />
+
+[Explore Extera](https://engineering-showcase-inky.vercel.app/projects/ai-company) · [Explore LearnAva](https://engineering-showcase-inky.vercel.app/projects/lernava) · [Engineering journal](journal/README.md)
+
 These short animated diagrams illustrate selected product concepts. They are **not recordings of working product interfaces**, and do not imply completed production readiness.
+
+<details>
+<summary><b>Individual motion studies</b></summary>
+
 
 [![LearnAva conceptual exam workflow](assets/learnava-flow.gif)](https://engineering-showcase-inky.vercel.app/projects/lernava)
 
 [![Extera conceptual governed voice workflow](assets/extera-flow.gif)](https://engineering-showcase-inky.vercel.app/projects/ai-company)
+
+</details>
 
 ## 06 / Technology landscape
 
