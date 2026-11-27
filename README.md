@@ -3,9 +3,9 @@
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
-  <a href="https://engineering-showcase-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-0B3551?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/parasaf1/engineering-showcase"><img src="https://img.shields.io/badge/Engineering-Showcase-142B40?style=for-the-badge&logo=github&logoColor=white" alt="Engineering showcase" /></a>
-  <a href="mailto:afsharparsa725@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-123D53?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+  <a href="https://engineering-showcase-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-164967?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/parasaf1/engineering-showcase"><img src="https://img.shields.io/badge/Engineering-Showcase-30234F?style=for-the-badge&logo=github&logoColor=white" alt="Engineering showcase" /></a>
+  <a href="mailto:afsharparsa725@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-3E2B66?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </div>
 
 ---
@@ -83,15 +83,15 @@ These short animated diagrams illustrate selected product concepts. They are **n
 
 **Application & API**
 
-![Flutter](https://img.shields.io/badge/Flutter-142B40?style=flat-square&logo=flutter&logoColor=54C5F8) ![Python](https://img.shields.io/badge/Python-142B40?style=flat-square&logo=python&logoColor=FFD343) ![FastAPI](https://img.shields.io/badge/FastAPI-142B40?style=flat-square&logo=fastapi&logoColor=00C7B7)
+![Flutter](https://img.shields.io/badge/Flutter-30234F?style=flat-square&logo=flutter&logoColor=54C5F8) ![Python](https://img.shields.io/badge/Python-30234F?style=flat-square&logo=python&logoColor=FFD343) ![FastAPI](https://img.shields.io/badge/FastAPI-30234F?style=flat-square&logo=fastapi&logoColor=00C7B7)
 
 **Web & product engineering**
 
-![Next.js](https://img.shields.io/badge/Next.js-142B40?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-142B40?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-142B40?style=flat-square&logo=typescript&logoColor=70B3FF)
+![Next.js](https://img.shields.io/badge/Next.js-30234F?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-30234F?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-30234F?style=flat-square&logo=typescript&logoColor=C4A5FF)
 
 **Systems & delivery**
 
-![GitHub](https://img.shields.io/badge/GitHub-142B40?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-142B40?style=flat-square&logo=githubactions&logoColor=65A9FF) ![Windows](https://img.shields.io/badge/Windows-142B40?style=flat-square&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-30234F?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30234F?style=flat-square&logo=githubactions&logoColor=C4A5FF) ![Windows](https://img.shields.io/badge/Windows-30234F?style=flat-square&logoColor=white)
 
 ## 07 / Engineering principles
 
