@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-typography.svg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
+  <img src="assets/banner-neon-v43.jpg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
