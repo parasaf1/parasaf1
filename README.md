@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="Parsa Afshar â€” Builder, Developer, AI Systems" width="100%" />
+  <img src="assets/banner.jpg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
@@ -29,7 +29,7 @@ This panel is generated from the sanitized public metadata in the [Engineering S
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json"><img src="assets/learnava.svg" alt="LearnAva â€” AI-assisted language learning" width="100%" /></a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json"><img src="assets/learnava.svg" alt="LearnAva — AI-assisted language learning" width="100%" /></a>
 <h3>LearnAva / Zabanyar</h3>
 An AI-assisted German-learning and exam-preparation product built with Flutter and FastAPI.
 <ul>
@@ -37,10 +37,10 @@ An AI-assisted German-learning and exam-preparation product built with Flutter a
 <li>Protected learner audio delivery</li>
 <li>Multi-speaker exam audio and preparation workflows</li>
 </ul>
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json">Public engineering evidence â†’</a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json">Public engineering evidence →</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json"><img src="assets/extera.svg" alt="Extera â€” Governed multi-agent systems" width="100%" /></a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json"><img src="assets/extera.svg" alt="Extera — Governed multi-agent systems" width="100%" /></a>
 <h3>Extera / AI Company</h3>
 A governed multi-agent platform with a dedicated SEVERUS owner-assistant experience.
 <ul>
@@ -48,7 +48,7 @@ A governed multi-agent platform with a dedicated SEVERUS owner-assistant experie
 <li>Local Windows microphone capture and speech recognition</li>
 <li>Authorization boundaries, auditability and regression testing</li>
 </ul>
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json">Public engineering evidence â†’</a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json">Public engineering evidence →</a>
 </td>
 </tr>
 </table>
@@ -103,9 +103,9 @@ Refreshed daily through GitHub Actions. This card samples public events only, no
 
 ## 08 / Explore my work
 
-- [**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) â€” public project documentation and evidence.
-- [**Live portfolio**](https://engineering-showcase-inky.vercel.app/) â€” a closer look at the projects, technical decisions and case studies.
-- [**Verification boundaries**](docs/engineering-evidence.md) â€” how I separate public evidence from private implementation.
+- [**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) — public project documentation and evidence.
+- [**Live portfolio**](https://engineering-showcase-inky.vercel.app/) — a closer look at the projects, technical decisions and case studies.
+- [**Verification boundaries**](docs/engineering-evidence.md) — how I separate public evidence from private implementation.
 
 <div align="center">
   <img src="assets/signal.svg" width="100%" alt="Think. Build. Verify. Evolve." />
@@ -114,6 +114,6 @@ Refreshed daily through GitHub Actions. This card samples public events only, no
 ---
 
 <div align="center">
-  <img src="assets/signature.svg" width="100%" alt="From idea to system â€” always building" />
+  <img src="assets/signature.svg" width="100%" alt="From idea to system — always building" />
   <sub>Built with curiosity, discipline and a bias toward execution.</sub>
 </div>
