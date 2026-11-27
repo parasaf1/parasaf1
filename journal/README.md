@@ -3,6 +3,7 @@
 A dated, public record of meaningful engineering work by Parsa Afshar Fard. Entries describe completed work, verified outcomes, decisions, and next steps; they do not replace project-specific source history.
 
 ## Publication rules
+- Use the canonical public project names **AI Company** and **LearnAva** only. Refer to internal features descriptively, rather than introducing separate public product brands.
 - Record only real, attributable engineering outcomes, with links to already-public evidence when available.
 - Publish only information already public or explicitly approved by Parsa for public release. Do not export chats, private repository contents, secrets, personal information, or another person's work.
 - Distinguish verified results, implementation in progress, and proposed work.
