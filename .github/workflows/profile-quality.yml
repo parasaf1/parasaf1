@@ -1,0 +1,25 @@
+name: Validate profile content
+on:
+  push:
+    paths:
+      - '**.md'
+      - 'assets/**'
+      - 'scripts/validate_profile.py'
+      - '.github/workflows/profile-quality.yml'
+  pull_request:
+    paths:
+      - '**.md'
+      - 'assets/**'
+      - 'scripts/validate_profile.py'
+      - '.github/workflows/profile-quality.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate local links, anchors and images
+        run: python3 scripts/validate_profile.py
