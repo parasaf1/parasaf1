@@ -8,6 +8,7 @@ on:
       - '.github/workflows/profile-activity.yml'
       - 'scripts/render_activity.py'
       - 'scripts/render_public_panels.py'
+      - 'scripts/render_contributions.py'
 permissions:
   contents: write
 concurrency:
@@ -30,7 +31,8 @@ jobs:
           cd "$RUNNER_TEMP/profile"
           python3 scripts/render_activity.py
           python3 scripts/render_public_panels.py
-          git add -- assets/activity.svg assets/project-signals.svg
+          python3 scripts/render_contributions.py
+          git add -- assets/activity.svg assets/project-signals.svg assets/contribution-stats.svg assets/contribution-3d.svg
           if git diff --cached --quiet; then exit 0; fi
           git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh public profile assets'
           git pull --rebase origin "$PROFILE_BRANCH"

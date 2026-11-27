@@ -38,6 +38,7 @@ An AI-assisted German-learning and exam-preparation product built with Flutter a
 <li>Multi-speaker exam audio and preparation workflows</li>
 </ul>
 <a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json">Public engineering evidence →</a>
+<br /><a href="https://engineering-showcase-inky.vercel.app/projects/lernava">Read full case study →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json"><img src="assets/extera.svg" alt="Extera — Governed multi-agent systems" width="100%" /></a>
@@ -49,6 +50,7 @@ A governed multi-agent platform with a dedicated SEVERUS owner-assistant experie
 <li>Authorization boundaries, auditability and regression testing</li>
 </ul>
 <a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json">Public engineering evidence →</a>
+<br /><a href="https://engineering-showcase-inky.vercel.app/projects/ai-company">Read full case study →</a>
 </td>
 </tr>
 </table>
@@ -98,6 +100,12 @@ Both products are in active development. Proprietary implementation remains priv
 ![Recent public GitHub activity](assets/activity.svg)
 
 Refreshed daily through GitHub Actions. This card samples public events only, not total contributions or private development activity.
+
+<img src="assets/contribution-stats.svg" alt="GitHub contribution statistics and streaks" width="100%" />
+
+<img src="assets/contribution-3d.svg" alt="Isometric GitHub contribution calendar" width="100%" />
+
+Statistics and streaks use the GitHub contribution calendar visible to the automation, not private repository contents. They cover the returned calendar window, not lifetime totals.
 
 <img src="assets/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
