@@ -36,11 +36,11 @@ That means I prefer documented, verifiable public evidence over inflated claims.
 
 ## Current profile components
 
-- `assets/activity.svg` â€” recent public GitHub activity snapshot
-- `assets/project-signals.svg` â€” public project context generated from the engineering showcase data
-- `assets/extera-architecture.svg` â€” public architecture snapshot for Extera
-- `assets/learnava-architecture.svg` â€” public architecture snapshot for LearnAva
-- `assets/github-snake.svg` â€” generated contribution animation
+- `assets/activity.svg` — recent public GitHub activity snapshot
+- `assets/project-signals.svg` — public project context generated from the engineering showcase data
+- `assets/extera-architecture.svg` — public architecture snapshot for Extera
+- `assets/learnava-architecture.svg` — public architecture snapshot for LearnAva
+- `assets/github-snake.svg` — generated contribution animation
 
 ## Reference repositories
 
