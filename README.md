@@ -20,7 +20,7 @@ I like turning ambitious ideas into working systems: defining a problem, designi
 
 > Build with purpose. Validate with evidence. Keep improving.
 
-**Start here:** [How I work](docs/profile-guide.md#engineering-approach) · [LearnAva project preview](docs/learnava-preview.md) · [Extera project preview](docs/extera-preview.md) · [How to read this profile](docs/profile-guide.md)
+**Start here:** [How I work](docs/profile-guide.md#engineering-approach) · [LearnAva project preview](docs/learnava-preview.md) · [AI Company project preview](docs/ai-company-preview.md) · [How to read this profile](docs/profile-guide.md)
 
 ## 02 / Public engineering dashboard
 
@@ -34,7 +34,7 @@ This panel is generated from the sanitized public metadata in the [Engineering S
 <tr>
 <td width="50%" valign="top">
 <a href="docs/learnava-preview.md"><img src="assets/learnava.svg" alt="LearnAva — AI-assisted language learning" width="100%" /></a>
-<h3>LearnAva / Zabanyar</h3>
+<h3>LearnAva</h3>
 An AI-assisted German-learning and exam-preparation product built with Flutter and FastAPI.
 <ul>
 <li>Cross-stack mobile and API development</li>
@@ -46,15 +46,15 @@ An AI-assisted German-learning and exam-preparation product built with Flutter a
 <br /><a href="https://engineering-showcase-inky.vercel.app/projects/lernava">Read full case study →</a>
 </td>
 <td width="50%" valign="top">
-<a href="docs/extera-preview.md"><img src="assets/extera.svg" alt="Extera — Governed multi-agent systems" width="100%" /></a>
-<h3>Extera / AI Company</h3>
-A governed multi-agent platform with a dedicated SEVERUS owner-assistant experience.
+<a href="docs/ai-company-preview.md"><img src="assets/ai-company.svg" alt="AI Company — Governed multi-agent systems" width="100%" /></a>
+<h3>AI Company</h3>
+A governed multi-agent platform with a dedicated owner assistant experience.
 <ul>
 <li>Policy-controlled inference and task workflows</li>
 <li>Local Windows microphone capture and speech recognition</li>
 <li>Authorization boundaries, auditability and regression testing</li>
 </ul>
-<a href="docs/extera-preview.md"><b>Read project preview →</b></a>
+<a href="docs/ai-company-preview.md"><b>Read project preview →</b></a>
 <br /><a href="https://github.com/parasaf1/engineering-showcase/blob/main/projects/AI_COMPANY.md">Engineering evidence →</a>
 <br /><a href="https://engineering-showcase-inky.vercel.app/projects/ai-company">Read full case study →</a>
 </td>
@@ -66,15 +66,15 @@ Both products are in active development. Proprietary implementation remains priv
 ## 04 / Architecture snapshots
 
 <details open>
-<summary><b>Extera / AI Company</b></summary>
+<summary><b>AI Company</b></summary>
 <br />
-<a href="docs/extera-preview.md#architecture"><img src="assets/extera-architecture-v2.svg" alt="Extera architecture snapshot" width="100%" /></a>
+<a href="docs/ai-company-preview.md#architecture"><img src="assets/ai-company-architecture-v2.svg" alt="AI Company architecture snapshot" width="100%" /></a>
 
-The diagram illustrates how owner requests pass through authorization and policy, approval-aware task routing, and model inference with verification. The goal is useful automation without unrestricted authority. [Read the architecture and its limitations](docs/extera-preview.md#architecture).
+The diagram illustrates how owner requests pass through authorization and policy, approval-aware task routing, and model inference with verification. The goal is useful automation without unrestricted authority. [Read the architecture and its limitations](docs/ai-company-preview.md#architecture).
 </details>
 
 <details open>
-<summary><b>LearnAva / Zabanyar</b></summary>
+<summary><b>LearnAva</b></summary>
 <br />
 <a href="docs/learnava-preview.md#architecture"><img src="assets/learnava-architecture-v2.svg" alt="LearnAva architecture snapshot" width="100%" /></a>
 
@@ -83,11 +83,11 @@ The diagram connects the Flutter learner experience to FastAPI services, exam wo
 
 ## 05 / Motion studies
 
-<a href="docs/profile-guide.md#motion-studies"><img src="assets/project-showreel.svg" alt="Animated conceptual showreel: Extera, LearnAva and the engineering journal" width="100%" /></a>
+<a href="docs/profile-guide.md#motion-studies"><img src="assets/project-showreel.svg" alt="Animated conceptual showreel: AI Company, LearnAva and the engineering journal" width="100%" /></a>
 
 The three slides introduce governed AI workflows, language-learning services and evidence-led development. [Read the showreel as text](docs/profile-guide.md#motion-studies).
 
-[Explore Extera](https://engineering-showcase-inky.vercel.app/projects/ai-company) · [Explore LearnAva](https://engineering-showcase-inky.vercel.app/projects/lernava) · [Engineering journal](journal/README.md)
+[Explore AI Company](https://engineering-showcase-inky.vercel.app/projects/ai-company) · [Explore LearnAva](https://engineering-showcase-inky.vercel.app/projects/lernava) · [Engineering journal](journal/README.md)
 
 These short animated diagrams illustrate selected product concepts. They are **not recordings of working product interfaces**, and do not imply completed production readiness.
 
@@ -99,9 +99,9 @@ These short animated diagrams illustrate selected product concepts. They are **n
 
 **LearnAva:** Exam format, audio and practice illustrate the connection between preparation requirements and the learner experience. [Read the motion preview](docs/learnava-preview.md#motion-preview).
 
-[![Extera conceptual governed voice workflow](assets/extera-flow.gif)](docs/extera-preview.md#motion-preview)
+[![AI Company conceptual governed voice workflow](assets/ai-company-flow.gif)](docs/ai-company-preview.md#motion-preview)
 
-**Extera:** Voice input, policy checks and inference illustrate the control boundaries of a governed assistant. [Read the motion preview](docs/extera-preview.md#motion-preview).
+**AI Company:** Voice input, policy checks and inference illustrate the control boundaries of a governed assistant. [Read the motion preview](docs/ai-company-preview.md#motion-preview).
 
 </details>
 

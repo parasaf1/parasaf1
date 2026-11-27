@@ -4,12 +4,12 @@
 
 ## Start here
 
-I'm Parsa Afshar Fard, a product builder and software developer working across client applications, backend services and AI systems. This profile is an engineering showcase rather than a collection of decorative badges. Its two main case studies are LearnAva, an AI-assisted language-learning product, and Extera, a governed multi-agent platform with a SEVERUS owner-assistant experience.
+I'm Parsa Afshar Fard, a product builder and software developer working across client applications, backend services and AI systems. This profile is an engineering showcase rather than a collection of decorative badges. Its two main case studies are LearnAva, an AI-assisted language-learning product, and AI Company, a governed multi-agent platform with a owner assistant experience.
 
 | If you want to understand… | Read |
 | --- | --- |
 | Learning product, API and protected media | [LearnAva preview](learnava-preview.md) |
-| Agent governance, routing and local voice | [Extera preview](extera-preview.md) |
+| Agent governance, routing and local voice | [AI Company preview](ai-company-preview.md) |
 | Engineering process and design decisions | [Engineering approach](#engineering-approach) |
 | What has actually been verified | [Evidence boundaries](engineering-evidence.md) |
 | Recent work | [Daily engineering journal](../journal/README.md) |
@@ -23,7 +23,7 @@ The animated console is an introduction to my role and work, not a running termi
 3. **Verify:** examine test results, integration behavior and failures; distinguish a successful check from production readiness.
 4. **Evolve:** improve the next iteration using evidence, not feature counts alone.
 
-LearnAva applies this loop to exam-oriented learning and media delivery. Extera applies it to authorization, reliable task coordination and model execution. The two systems have different goals but share an emphasis on explicit boundaries and verifiable outcomes.
+LearnAva applies this loop to exam-oriented learning and media delivery. AI Company applies it to authorization, reliable task coordination and model execution. The two systems have different goals but share an emphasis on explicit boundaries and verifiable outcomes.
 
 ## Project dashboard
 
@@ -31,7 +31,7 @@ LearnAva applies this loop to exam-oriented learning and media delivery. Extera 
 
 The dashboard is generated from published, sanitized project metadata. Each card displays development status, current milestone, public summary, selected recent update and the count of published highlights. A milestone can be in progress; a highlight count is a documentation count, not a feature completion percentage. The UTC date marks the generated snapshot, not an independent audit.
 
-Read the current [LearnAva metadata](https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json) or [Extera metadata](https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json) for the exact source and verification boundaries. The [case studies](https://engineering-showcase-inky.vercel.app/#projects) supply narrative context.
+Read the current [LearnAva metadata](https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json) or [AI Company metadata](https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json) for the exact source and verification boundaries. The [case studies](https://engineering-showcase-inky.vercel.app/#projects) supply narrative context.
 
 ## Motion studies
 
@@ -39,7 +39,7 @@ Read the current [LearnAva metadata](https://github.com/parasaf1/engineering-sho
 
 The showreel is a rotating conceptual introduction, not a screen recording. Its three frames mean:
 
-- **Extera / SEVERUS:** an owner request or voice input encounters policy and approval boundaries before inference and verification. [Read the full explanation](extera-preview.md#motion-preview).
+- **AI Company:** an owner request or voice input encounters policy and approval boundaries before inference and verification. [Read the full explanation](ai-company-preview.md#motion-preview).
 - **LearnAva:** Flutter and FastAPI connect exam requirements with learner-facing practice and audio workflows. [Read the full explanation](learnava-preview.md#motion-preview).
 - **Engineering Journal:** the design–validation–documentation loop is a way of maintaining public evidence over time. [Read the journal](../journal/README.md).
 
@@ -78,4 +78,4 @@ The Snake is a generated animation of contribution data using Platane's open-sou
 
 ## Where to go next
 
-[LearnAva](learnava-preview.md) · [Extera / SEVERUS](extera-preview.md) · [Daily journal](../journal/README.md) · [Public evidence](engineering-evidence.md) · [Portfolio](https://engineering-showcase-inky.vercel.app/)
+[LearnAva](learnava-preview.md) · [AI Company](ai-company-preview.md) · [Daily journal](../journal/README.md) · [Public evidence](engineering-evidence.md) · [Portfolio](https://engineering-showcase-inky.vercel.app/)

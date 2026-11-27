@@ -1,12 +1,12 @@
-# Extera / AI Company — project preview
+# AI Company — project preview
 
 [Back to profile](../README.md) · [Full case study](https://engineering-showcase-inky.vercel.app/projects/ai-company) · [Public engineering evidence](https://github.com/parasaf1/engineering-showcase/blob/main/projects/AI_COMPANY.md)
 
-![Extera project card](../assets/extera.svg)
+![AI Company project card](../assets/ai-company.svg)
 
-## What is Extera?
+## What is AI Company?
 
-Extera is a multi-agent AI platform designed around controlled execution, policy-owned model routing, persistent workflow state, approvals and verifiable outcomes. SEVERUS is its dedicated owner-assistant experience, not a claim of an independently operating AI company.
+AI Company is a multi-agent AI platform designed around controlled execution, policy-owned model routing, persistent workflow state, approvals and verifiable outcomes. owner assistant is its dedicated owner-assistant experience, not a claim of an independently operating AI company.
 
 ## Problem and product goal
 
@@ -18,7 +18,7 @@ System designer and implementing engineer: platform decomposition, runtime bound
 
 ## Architecture
 
-![Extera architecture](../assets/extera-architecture-v2.svg)
+![AI Company architecture](../assets/ai-company-architecture-v2.svg)
 
 | Layer | Responsibility |
 | --- | --- |
@@ -38,7 +38,7 @@ This is a conceptual public map, not a disclosure of runtime internals or a clai
 
 ## Motion preview
 
-![Extera conceptual voice workflow](../assets/extera-flow.gif)
+![AI Company conceptual voice workflow](../assets/ai-company-flow.gif)
 
 **What the three frames mean:** voice input represents explicit local microphone capture; policy check represents the control boundary between a request and permitted action; inference represents a permitted model execution path. This animation illustrates a design concept. It does not demonstrate a complete voice conversation or autonomous multi-agent mission.
 

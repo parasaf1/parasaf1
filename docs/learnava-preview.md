@@ -1,4 +1,4 @@
-# LearnAva / Zabanyar — project preview
+# LearnAva — project preview
 
 [Back to profile](../README.md) · [Full case study](https://engineering-showcase-inky.vercel.app/projects/lernava) · [Public engineering evidence](https://github.com/parasaf1/engineering-showcase/blob/main/projects/LEARNAva.md)
 

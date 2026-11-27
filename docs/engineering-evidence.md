@@ -37,14 +37,14 @@ That means I prefer documented, verifiable public evidence over inflated claims.
 ## Readable previews
 
 - [LearnAva: product, architecture and verification](learnava-preview.md)
-- [Extera: product, governance and verification](extera-preview.md)
+- [AI Company: product, governance and verification](ai-company-preview.md)
 - [Profile guide: dashboard, animations and statistics](profile-guide.md)
 
 ## Current profile components
 
 - `assets/activity.svg` — recent public GitHub activity snapshot
 - `assets/project-signals.svg` — public project context generated from the engineering showcase data
-- `assets/extera-architecture-v2.svg` — public architecture snapshot for Extera
+- `assets/ai-company-architecture-v2.svg` — public architecture snapshot for AI Company
 - `assets/learnava-architecture-v2.svg` — public architecture snapshot for LearnAva
 - `assets/github-snake.svg` — generated contribution animation
 

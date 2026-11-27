@@ -66,23 +66,23 @@ def card(x, y, width, height, accent, label, name, status, milestone, summary, l
     return "".join(out)
 
 
-def render(learnava, extera):
+def render(learnava, ai_company):
     generated = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    ex_up = (extera.get("recent_updates") or [{}])[0]
+    ex_up = (ai_company.get("recent_updates") or [{}])[0]
     le_up = (learnava.get("recent_updates") or [{}])[0]
     ex_card = card(
-        34, 94, 438, 478, "#61e2ef", "PROJECT SIGNAL / 01", extera.get("display_name", "Extera"),
-        extera.get("status", "Active development"), extera.get("current_milestone", ""),
-        extera.get("public_summary", ""), ex_up.get("date", ""), ex_up.get("text", ""), len(extera.get("highlights", []))
+        34, 94, 438, 478, "#61e2ef", "PROJECT SIGNAL / 01", "AI Company",
+        ai_company.get("status", "Active development"), ai_company.get("current_milestone", ""),
+        ai_company.get("public_summary", ""), ex_up.get("date", ""), ex_up.get("text", ""), len(ai_company.get("highlights", []))
     )
     le_card = card(
-        488, 94, 438, 478, "#b59aff", "PROJECT SIGNAL / 02", learnava.get("display_name", "LearnAva"),
+        488, 94, 438, 478, "#b59aff", "PROJECT SIGNAL / 02", "LearnAva",
         learnava.get("status", "Active development"), learnava.get("current_milestone", ""),
         learnava.get("public_summary", ""), le_up.get("date", ""), le_up.get("text", ""), len(learnava.get("highlights", []))
     )
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="960" height="604" viewBox="0 0 960 604" role="img" aria-labelledby="title desc">
 <title id="title">Public engineering signals</title>
-<desc id="desc">Public engineering signals for Extera / AI Company and LearnAva / Zabanyar based on sanitized metadata.</desc>
+<desc id="desc">Public engineering signals for AI Company and LearnAva based on sanitized metadata.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#081321"/>
@@ -102,7 +102,7 @@ def render(learnava, extera):
 
 if __name__ == "__main__":
     learnava = fetch_json(f"{BASE}/lernava.json")
-    extera = fetch_json(f"{BASE}/ai-company.json")
-    svg = render(learnava, extera)
+    ai_company = fetch_json(f"{BASE}/ai-company.json")
+    svg = render(learnava, ai_company)
     with open(OUTPUT, "w", encoding="utf-8", newline="\n") as f:
         f.write(svg)

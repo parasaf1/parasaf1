@@ -5,12 +5,12 @@
 ## Profile V5.2 — 27 November 2026
 
 - Neon violet/cyan visual identity, animated console, conceptual showreel and contribution visualizations.
-- Readable previews for LearnAva and Extera, with source-linked engineering explanations.
+- Readable previews for LearnAva and AI Company, with source-linked engineering explanations.
 - Public engineering journal and automatically generated recent-entry panel.
 - Automated checks for internal links, Markdown anchors, SVG structure and referenced image signatures.
 - Successful quality and asset-refresh runs were observed: [quality check](https://github.com/parasaf1/parasaf1/actions/runs/45987630546), [refresh](https://github.com/parasaf1/parasaf1/actions/runs/45987630625).
 
-## Extera / SEVERUS — public milestone, 22 November 2026
+## AI Company — public milestone, 22 November 2026
 
 Development-branch evidence describes opt-in public-model inference, explicit local microphone capture and offline Persian speech recognition. The published report records 1,315 passing offline regression tests on Linux and a successful Windows integration suite. Full spoken interaction, independently verified autonomous missions and production readiness remain unverified.
 

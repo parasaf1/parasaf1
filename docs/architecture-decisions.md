@@ -4,7 +4,7 @@
 
 These records summarize decisions described in the already-public case studies. They are retrospective public summaries, not copies of private architecture records or claims that all capabilities are production-ready.
 
-## ADR-001 — Govern model routing and execution (Extera)
+## ADR-001 — Govern model routing and execution (AI Company)
 
 **Status:** documented design direction and development-branch implementation.
 
@@ -14,9 +14,9 @@ These records summarize decisions described in the already-public case studies. 
 
 **Trade-off:** Additional policy and state management adds complexity and latency but improves control, accountability and recovery.
 
-**Evidence:** [Public Extera case study](https://github.com/parasaf1/engineering-showcase/blob/main/projects/AI_COMPANY.md) · [Current public metadata](https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json).
+**Evidence:** [Public AI Company case study](https://github.com/parasaf1/engineering-showcase/blob/main/projects/AI_COMPANY.md) · [Current public metadata](https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json).
 
-## ADR-002 — Prefer explicit local speech capture (Extera)
+## ADR-002 — Prefer explicit local speech capture (AI Company)
 
 **Status:** local speech-to-text validated on the development branch; full voice interaction remains unverified.
 
