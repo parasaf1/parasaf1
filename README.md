@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
+  <img src="assets/banner.jpg" alt="Parsa Afshar â€” Builder, Developer, AI Systems" width="100%" />
 
   <h3>Design systems. Build products. Make intelligence useful.</h3>
 
@@ -18,12 +18,18 @@ I like turning ambitious ideas into working systems: defining a problem, designi
 
 > Build with purpose. Validate with evidence. Keep improving.
 
-## 02 / Systems I'm building
+## 02 / Public engineering dashboard
+
+![Public engineering signals](assets/project-signals.svg)
+
+This panel is generated from the sanitized public metadata in the [Engineering Showcase](https://github.com/parasaf1/engineering-showcase). It highlights only the public, verified context I intentionally publish.
+
+## 03 / Systems I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json"><img src="assets/learnava.svg" alt="LearnAva — AI-assisted language learning" width="100%" /></a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json"><img src="assets/learnava.svg" alt="LearnAva â€” AI-assisted language learning" width="100%" /></a>
 <h3>LearnAva / Zabanyar</h3>
 An AI-assisted German-learning and exam-preparation product built with Flutter and FastAPI.
 <ul>
@@ -31,10 +37,10 @@ An AI-assisted German-learning and exam-preparation product built with Flutter a
 <li>Protected learner audio delivery</li>
 <li>Multi-speaker exam audio and preparation workflows</li>
 </ul>
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json">Public engineering evidence →</a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json">Public engineering evidence â†’</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json"><img src="assets/extera.svg" alt="Extera — Governed multi-agent systems" width="100%" /></a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json"><img src="assets/extera.svg" alt="Extera â€” Governed multi-agent systems" width="100%" /></a>
 <h3>Extera / AI Company</h3>
 A governed multi-agent platform with a dedicated SEVERUS owner-assistant experience.
 <ul>
@@ -42,14 +48,28 @@ A governed multi-agent platform with a dedicated SEVERUS owner-assistant experie
 <li>Local Windows microphone capture and speech recognition</li>
 <li>Authorization boundaries, auditability and regression testing</li>
 </ul>
-<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json">Public engineering evidence →</a>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json">Public engineering evidence â†’</a>
 </td>
 </tr>
 </table>
 
 Both products are in active development. Proprietary implementation remains private; the public showcase documents selected, sanitized engineering evidence and verification boundaries.
 
-## 03 / Technology landscape
+## 04 / Architecture snapshots
+
+<details open>
+<summary><b>Extera / AI Company</b></summary>
+<br />
+<img src="assets/extera-architecture.svg" alt="Extera architecture snapshot" width="100%" />
+</details>
+
+<details open>
+<summary><b>LearnAva / Zabanyar</b></summary>
+<br />
+<img src="assets/learnava-architecture.svg" alt="LearnAva architecture snapshot" width="100%" />
+</details>
+
+## 05 / Technology landscape
 
 **Application & API**
 
@@ -63,7 +83,7 @@ Both products are in active development. Proprietary implementation remains priv
 
 ![GitHub](https://img.shields.io/badge/GitHub-142B40?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-142B40?style=flat-square&logo=githubactions&logoColor=65A9FF) ![Windows](https://img.shields.io/badge/Windows-142B40?style=flat-square&logoColor=white)
 
-## 04 / Engineering principles
+## 06 / Engineering principles
 
 | Principle | In practice |
 | :--- | :--- |
@@ -73,63 +93,27 @@ Both products are in active development. Proprietary implementation remains priv
 | **Evidence over claims** | Distinguish tested capabilities from work in progress. |
 | **Continuous improvement** | Build, measure, validate and iterate. |
 
-## 05 / Explore my work
-
-[**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) — Public project documentation and evidence.
-
-[**Live portfolio**](https://engineering-showcase-inky.vercel.app/) — A closer look at the projects, technical decisions and case studies.
-
-[**Latest public project metadata**](https://github.com/parasaf1/engineering-showcase/tree/main/data) — The project's maintained public evidence source.
-
-## 06 / Inside the systems
-
-High-level maps of selected public engineering capabilities. These are conceptual views, not a disclosure of private implementation.
-
-<details open>
-<summary><b>EXTERA / Governed AI workflows</b></summary>
-
-```mermaid
-flowchart LR
-  A[Owner interface] --> B[Authorization and policy]
-  B --> C[Approval-aware workflows]
-  C --> D[Model inference]
-  E[Local microphone and speech recognition] --> A
-  C --> F[Audit and verification]
-```
-
-Phase 14 includes validated local speech recognition and opt-in model inference; full autonomous operation and production readiness remain in progress. [Public evidence](https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json).
-
-</details>
-
-<details open>
-<summary><b>LEARNAVA / AI-assisted language learning</b></summary>
-
-```mermaid
-flowchart LR
-  A[Flutter learning experience] --> B[FastAPI backend]
-  B --> C[Exam preparation workflows]
-  B --> D[Protected audio delivery]
-  D --> E[Multi-speaker exam audio]
-```
-
-Selected validated exam preparation and audio capabilities. [Public evidence](https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json).
-
-</details>
-
-## 07 / Public activity
+## 07 / Activity & momentum
 
 ![Recent public GitHub activity](assets/activity.svg)
 
 Refreshed daily through GitHub Actions. This card samples public events only, not total contributions or private development activity.
 
+<img src="assets/github-snake.svg" alt="Contribution snake animation" width="100%" />
+
+## 08 / Explore my work
+
+- [**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) â€” public project documentation and evidence.
+- [**Live portfolio**](https://engineering-showcase-inky.vercel.app/) â€” a closer look at the projects, technical decisions and case studies.
+- [**Verification boundaries**](docs/engineering-evidence.md) â€” how I separate public evidence from private implementation.
+
 <div align="center">
   <img src="assets/signal.svg" width="100%" alt="Think. Build. Verify. Evolve." />
 </div>
 
-
 ---
 
 <div align="center">
-  <img src="assets/signature.svg" width="100%" alt="From idea to system — always building" />
+  <img src="assets/signature.svg" width="100%" alt="From idea to system â€” always building" />
   <sub>Built with curiosity, discipline and a bias toward execution.</sub>
 </div>
