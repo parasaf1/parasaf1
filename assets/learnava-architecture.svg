@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<title id="title">LearnAva public architecture snapshot</title>
+<desc id="desc">Conceptual high-level architecture of LearnAva / Zabanyar based on public evidence.</desc>
+<defs>
+  <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#081321"/>
+    <stop offset="100%" stop-color="#0f2740"/>
+  </linearGradient>
+  <filter id="glow2"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="960" height="280" rx="22" fill="url(#bg2)"/>
+<rect x="1" y="1" width="958" height="278" rx="21" fill="none" stroke="#244662"/>
+<text x="34" y="38" fill="#67d9f2" font-family="monospace" font-size="13" letter-spacing="2">LEARNAVA / AI-ASSISTED LANGUAGE LEARNING</text>
+<text x="34" y="63" fill="#eef6ff" font-family="Arial,sans-serif" font-size="24" font-weight="700">Public architecture snapshot</text>
+<g stroke="#45b6ff" stroke-width="3" fill="none" opacity="0.9" filter="url(#glow2)">
+  <path d="M214 160H272"/><path d="M440 160H498"/><path d="M666 160H724"/>
+</g>
+<g font-family="Arial,sans-serif">
+  <g transform="translate(34,104)">
+    <rect width="180" height="108" rx="16" fill="#0f1d30" stroke="#294f6a"/>
+    <text x="20" y="32" fill="#67d9f2" font-size="12" font-family="monospace">EXPERIENCE</text>
+    <text x="20" y="58" fill="#eef6ff" font-size="22" font-weight="700">Flutter app</text>
+    <text x="20" y="82" fill="#d8e6f2" font-size="14">Learner-facing mobile</text>
+    <text x="20" y="100" fill="#d8e6f2" font-size="14">experience and workflows</text>
+  </g>
+  <g transform="translate(272,104)">
+    <rect width="168" height="108" rx="16" fill="#0f1d30" stroke="#294f6a"/>
+    <text x="20" y="32" fill="#67d9f2" font-size="12" font-family="monospace">API</text>
+    <text x="20" y="58" fill="#eef6ff" font-size="22" font-weight="700">FastAPI backend</text>
+    <text x="20" y="82" fill="#d8e6f2" font-size="14">Application logic and</text>
+    <text x="20" y="100" fill="#d8e6f2" font-size="14">exam preparation flows</text>
+  </g>
+  <g transform="translate(498,104)">
+    <rect width="168" height="108" rx="16" fill="#0f1d30" stroke="#294f6a"/>
+    <text x="20" y="32" fill="#67d9f2" font-size="12" font-family="monospace">CONTENT</text>
+    <text x="20" y="58" fill="#eef6ff" font-size="22" font-weight="700">Exam workflows</text>
+    <text x="20" y="82" fill="#d8e6f2" font-size="14">Validated preparation</text>
+    <text x="20" y="100" fill="#d8e6f2" font-size="14">for multiple formats</text>
+  </g>
+  <g transform="translate(724,104)">
+    <rect width="202" height="108" rx="16" fill="#0f1d30" stroke="#294f6a"/>
+    <text x="20" y="32" fill="#67d9f2" font-size="12" font-family="monospace">DELIVERY</text>
+    <text x="20" y="58" fill="#eef6ff" font-size="22" font-weight="700">Protected audio</text>
+    <text x="20" y="82" fill="#d8e6f2" font-size="14">Learner delivery and</text>
+    <text x="20" y="100" fill="#d8e6f2" font-size="14">multi-speaker exam audio</text>
+  </g>
+</g>
+<text x="34" y="248" fill="#9bb7cb" font-family="Arial,sans-serif" font-size="14">Conceptual public view only â€” selected capabilities based on sanitized engineering evidence.</text>
+</svg>
