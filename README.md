@@ -1,68 +1,89 @@
 <div align="center">
+  <img src="assets/banner.jpg" alt="Parsa Afshar — Builder, Developer, AI Systems" width="100%" />
 
-# PARSA AFSHAR FARD
+  <h3>Design systems. Build products. Make intelligence useful.</h3>
 
-### Product Builder | Software Developer | AI Systems
-
-**Turning ideas into working systems.**
-
-[Engineering Portfolio](https://engineering-showcase-inky.vercel.app) |
-[GitHub](https://github.com/parasaf1) |
-[Contact](mailto:afsharparsa725@gmail.com)
-
+  <a href="https://engineering-showcase-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-0B3551?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/parasaf1/engineering-showcase"><img src="https://img.shields.io/badge/Engineering-Showcase-142B40?style=for-the-badge&logo=github&logoColor=white" alt="Engineering showcase" /></a>
+  <a href="mailto:afsharparsa725@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-123D53?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </div>
 
 ---
 
-## About Me
+## 01 / About me
 
-I build software products, explore intelligent systems,
-and turn complex ideas into practical engineering solutions.
+I'm **Parsa Afshar Fard**, a software developer and product builder exploring the intersection of intelligent systems, software engineering and real-world product development.
 
-My interests span software engineering, artificial intelligence,
-automation, product development and system architecture.
+I like turning ambitious ideas into working systems: defining a problem, designing the architecture, building the product, and validating the result. My current work spans AI-assisted education, governed multi-agent workflows, local voice interfaces and engineering automation.
 
-## Flagship Projects
+> Build with purpose. Validate with evidence. Keep improving.
 
-### Extera AI Company
+## 02 / Systems I'm building
 
-A governed multi-agent AI platform with an owner-assistant
-experience, local voice processing and approval-aware workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json"><img src="assets/learnava.svg" alt="LearnAva — AI-assisted language learning" width="100%" /></a>
+<h3>LearnAva / Zabanyar</h3>
+An AI-assisted German-learning and exam-preparation product built with Flutter and FastAPI.
+<ul>
+<li>Cross-stack mobile and API development</li>
+<li>Protected learner audio delivery</li>
+<li>Multi-speaker exam audio and preparation workflows</li>
+</ul>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/lernava.json">Public engineering evidence →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json"><img src="assets/extera.svg" alt="Extera — Governed multi-agent systems" width="100%" /></a>
+<h3>Extera / AI Company</h3>
+A governed multi-agent platform with a dedicated SEVERUS owner-assistant experience.
+<ul>
+<li>Policy-controlled inference and task workflows</li>
+<li>Local Windows microphone capture and speech recognition</li>
+<li>Authorization boundaries, auditability and regression testing</li>
+</ul>
+<a href="https://github.com/parasaf1/engineering-showcase/blob/main/data/ai-company.json">Public engineering evidence →</a>
+</td>
+</tr>
+</table>
 
-**Focus:** Multi-Agent Systems, AI Governance, Automation,
-Local AI and Software Architecture.
+Both products are in active development. Proprietary implementation remains private; the public showcase documents selected, sanitized engineering evidence and verification boundaries.
 
-**Status:** Active development.
+## 03 / Technology landscape
 
-### LearnAva
+**Application & API**
 
-An AI-assisted German language learning and exam preparation
-platform built with Flutter and FastAPI.
+![Flutter](https://img.shields.io/badge/Flutter-142B40?style=flat-square&logo=flutter&logoColor=54C5F8) ![Python](https://img.shields.io/badge/Python-142B40?style=flat-square&logo=python&logoColor=FFD343) ![FastAPI](https://img.shields.io/badge/FastAPI-142B40?style=flat-square&logo=fastapi&logoColor=00C7B7)
 
-**Focus:** Educational Technology, AI, Mobile Development
-and Backend Engineering.
+**Web & product engineering**
 
-**Status:** Active development.
+![Next.js](https://img.shields.io/badge/Next.js-142B40?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-142B40?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-142B40?style=flat-square&logo=typescript&logoColor=70B3FF)
 
-## Engineering Philosophy
+**Systems & delivery**
 
-- Build real products.
-- Design systems, not just features.
-- Verify results through testing.
-- Treat security and privacy as engineering requirements.
-- Never stop learning.
+![GitHub](https://img.shields.io/badge/GitHub-142B40?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-142B40?style=flat-square&logo=githubactions&logoColor=65A9FF) ![Windows](https://img.shields.io/badge/Windows-142B40?style=flat-square&logoColor=white)
 
-## Engineering Showcase
+## 04 / Engineering principles
 
-Explore my projects, technical case studies and verified
-engineering milestones.
+| Principle | In practice |
+| :--- | :--- |
+| **Product first** | Start with a meaningful problem, not a technology checklist. |
+| **Governed intelligence** | Explicit permissions, scoped tools and accountable AI workflows. |
+| **Privacy by design** | Separate public evidence from proprietary source and user data. |
+| **Evidence over claims** | Distinguish tested capabilities from work in progress. |
+| **Continuous improvement** | Build, measure, validate and iterate. |
 
-[View Engineering Showcase](https://github.com/parasaf1/engineering-showcase)
+## 05 / Explore my work
+
+[**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) — Public project documentation and evidence.
+
+[**Live portfolio**](https://engineering-showcase-inky.vercel.app/) — A closer look at the projects, technical decisions and case studies.
+
+[**Latest public project metadata**](https://github.com/parasaf1/engineering-showcase/tree/main/data) — The project's maintained public evidence source.
 
 ---
 
 <div align="center">
-
-**Think. Build. Verify. Evolve.**
-
+  <img src="assets/signature.svg" width="100%" alt="From idea to system — always building" />
+  <sub>Built with curiosity, discipline and a bias toward execution.</sub>
 </div>
