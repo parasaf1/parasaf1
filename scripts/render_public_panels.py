@@ -24,7 +24,7 @@ def fetch_json(url: str):
 def wrap_lines(text: str, width: int, max_lines: int):
     parts = textwrap.wrap(text, width=width)
     if len(parts) > max_lines:
-        parts = parts[: max_lines - 1] + [parts[max_lines - 1].rstrip(" .") + "â€¦"]
+        parts = parts[: max_lines - 1] + [parts[max_lines - 1].rstrip(" .") + "…"]
     return [escape(p) for p in parts]
 
 
