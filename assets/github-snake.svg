@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+<title id="title">Contribution motion placeholder</title>
+<desc id="desc">Placeholder until the GitHub Actions snake workflow produces the real contribution animation.</desc>
+<rect width="960" height="180" rx="18" fill="#081321"/>
+<rect x="1" y="1" width="958" height="178" rx="17" fill="none" stroke="#244662"/>
+<text x="40" y="42" fill="#67d9f2" font-family="monospace" font-size="13" letter-spacing="2">CONTRIBUTION MOTION</text>
+<text x="40" y="82" fill="#eef6ff" font-family="Arial,sans-serif" font-size="28" font-weight="700">Snake animation will appear after the workflow runs.</text>
+<text x="40" y="112" fill="#9bb7cb" font-family="Arial,sans-serif" font-size="16">This placeholder is automatically replaced by a generated SVG based on public contribution activity.</text>
+<g fill="#17324c">
+  <rect x="40" y="130" width="18" height="18" rx="4"/>
+  <rect x="64" y="130" width="18" height="18" rx="4"/>
+  <rect x="88" y="130" width="18" height="18" rx="4"/>
+  <rect x="112" y="130" width="18" height="18" rx="4"/>
+  <rect x="136" y="130" width="18" height="18" rx="4" fill="#087f9e"/>
+  <rect x="160" y="130" width="18" height="18" rx="4" fill="#19b6d0"/>
+  <rect x="184" y="130" width="18" height="18" rx="4" fill="#61e2ef"/>
+  <circle cx="232" cy="139" r="8" fill="#61e2ef"/>
+  <circle cx="252" cy="139" r="6" fill="#19b6d0"/>
+  <circle cx="268" cy="139" r="4" fill="#087f9e"/>
+</g>
+</svg>
