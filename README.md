@@ -154,6 +154,9 @@ The landscape uses height and color to encode contribution counts; the Snake ani
 - [**Engineering Showcase**](https://github.com/parasaf1/engineering-showcase) — public project documentation and evidence.
 - [**Live portfolio**](https://engineering-showcase-inky.vercel.app/) — a closer look at the projects, technical decisions and case studies.
 - [**Daily Engineering Journal**](journal/README.md) — meaningful engineering outcomes and public verification.
+- [**Architecture decisions (ADR)**](docs/architecture-decisions.md) — public design decisions and trade-offs.
+- [**Release and milestone notes**](docs/release-notes.md) — documented updates and verification boundaries.
+- [**Engineering Pulse — open-source prototype**](tools/engineering-pulse/README.md) — render approved project metadata into local SVG cards.
 - [**Verification boundaries**](docs/engineering-evidence.md) — how I separate public evidence from private implementation.
 
 <div align="center">

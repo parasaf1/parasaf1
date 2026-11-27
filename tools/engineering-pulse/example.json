@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "name": "Example learning app",
+      "status": "Example only",
+      "milestone": "Illustrative milestone, not real project evidence",
+      "summary": "Replace this sample with intentionally approved public metadata."
+    },
+    {
+      "name": "Example AI workflow",
+      "status": "Example only",
+      "milestone": "Illustrative design milestone",
+      "summary": "No private repository or conversation is read by the tool."
+    }
+  ]
+}

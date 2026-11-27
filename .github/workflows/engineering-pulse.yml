@@ -1,0 +1,29 @@
+name: Test Engineering Pulse
+on:
+  push:
+    paths:
+      - 'tools/engineering-pulse/**'
+      - '.github/workflows/engineering-pulse.yml'
+  pull_request:
+    paths:
+      - 'tools/engineering-pulse/**'
+      - '.github/workflows/engineering-pulse.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    defaults:
+      run:
+        working-directory: tools/engineering-pulse
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unit tests
+        run: python3 -m unittest -v
+      - name: Render and parse both themes
+        run: |
+          python3 pulse.py example.json /tmp/pulse.svg
+          python3 pulse.py example.json /tmp/pulse-slate.svg --theme slate
+          python3 -c 'import xml.etree.ElementTree as E; E.parse("/tmp/pulse.svg"); E.parse("/tmp/pulse-slate.svg")'
